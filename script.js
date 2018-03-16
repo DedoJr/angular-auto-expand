@@ -2,7 +2,7 @@
     'use strict';
 
     angular
-        .module('alterdata.os')
+        .module('dedojr')
         .directive('autoExpand', autoExpand);
 
     autoExpand.$inject = [];
